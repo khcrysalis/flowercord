@@ -2,6 +2,10 @@
 
 Discord tweak that adds square profile pictures and chat bubbles
 
+## Installing
+
+Head over to the [releases](https://github.com/ssalggnikool/flowercord/releases) page, and install the deb via your favorite package manager.
+
 ## Compiling
 
 1. Install [theos](https://theos.dev/docs/)
